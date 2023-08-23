@@ -26,7 +26,8 @@ To Visit App LOCALLY:
 # Reflection
 
 ## - Overview
-Developed a responsive UI for the Meta Frontend specialization on Coursera. With bug-free code, using React components to create diverse views and building a front-end website with React JS and JavaScript## - Teck Stack
+Developed a responsive UI for the Meta Frontend specialization on Coursera. With bug-free code, using React components to create diverse views and building a front-end website with React JS and JavaScript
+## - Teck Stack
 <table align='center'>
   <tr>
     <td align="center">
